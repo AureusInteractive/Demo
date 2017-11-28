@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "solitaireWebDemo.data.unityweb",
+"asmCodeUrl": "solitaireWebDemo.asm.code.unityweb",
+"asmMemoryUrl": "solitaireWebDemo.asm.memory.unityweb",
+"asmFrameworkUrl": "solitaireWebDemo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
